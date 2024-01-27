@@ -15,6 +15,8 @@ Note: The picture is only to explain the problem, There is no need to create a G
 
 Your task is to build a function `knightMoves` that shows the shortest possible way to get from one square to another by outputting all squares the knight will stop on along the way.
 
+Remember edgeList which contains edges as arrays ? so what would be stored in place of it (moves)
+
 You can think of the board as having 2-dimensional coordinates. Your function would therefore look like:
 
 - `knightMoves([0,0],[1,2]) == [[0,0],[1,2]]`
